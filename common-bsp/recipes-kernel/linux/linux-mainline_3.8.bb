@@ -708,10 +708,15 @@ SRC_URI += " \
 	file://capes/0019-Added-camera-cape-support-for-Beaglebone-Black.patch \
 	file://capes/0020-add-argus-ups-cape-support.patch \
 	file://capes/0021-Fix-aspect-ratio-issue-of-720p-in-MT9M114-camera-cap.patch \
+	file://proto/0001-add-new-default-pinmux-based-on-Proto-Cape.patch \
 	file://fixes/0001-sync-don-t-block-the-flusher-thread-waiting-on-IO.patch \
 	file://fixes/0002-USB-Fix-USB-device-disconnects-on-resume.patch \
 	file://fixes/0003-beaglebone-switch-uSD-to-4-bit-mode.patch \
 	file://fixes/0004-mmc-omap_hsmmc-clear-status-flags-before-starting-a-.patch \
+	file://fixes/0005-uvcvideo-Fix-data-type-for-pan-tilt-control.patch \
+	file://fixes/0006-ti_am335x_tsc-touchscreen-jitter-fix.patch \
+	file://fixes/0007-omap-RS485-support-by-Michael-Musset.patch \
+	file://machinekit/0001-Add-dir-changeable-property-to-gpio-of-helper.patch \
 	file://defconfig \
   file://am335x-pm-firmware.bin \
   file://logo_linux_clut224.ppm \
