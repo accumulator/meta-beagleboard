@@ -249,6 +249,7 @@ SRC_URI += " \
 	file://net/0004-beaglebone-TT3201-MCP2515-fixes.patch \
 	file://net/0005-add-proper-db.txt-for-CRDA.patch \
 	file://net/0006-mcp251x-add-device-tree-support.patch \
+	file://net/0007-net-cpsw-fix-irq_disable-with-threaded-interrupts.patch \
 	file://drm/0001-am33xx-Add-clock-for-the-lcdc-DRM-driver.patch \
 	file://drm/0002-drm-small-fix-in-drm_send_vblank_event.patch \
 	file://drm/0003-drm-cma-add-debugfs-helpers.patch \
