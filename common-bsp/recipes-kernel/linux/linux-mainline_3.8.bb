@@ -719,6 +719,8 @@ SRC_URI += " \
 	file://capes/0031-Adding-Logibone-to-cape-support-list.patch \
 	file://capes/0032-beaglebone-capes-Added-CBB-Relay-cape-dt-overlay.patch \
 	file://capes/0033-Firmware-Update-Replicape-device-tree-overlay-files-.patch \
+	file://capes/0034-cape-add-BB-BONE-AUDI-02-00A0-from-http-elinux.org-C.patch \
+	file://capes/0035-cape-universaln-remove-P9_31.patch \
 	file://proto/0001-add-new-default-pinmux-based-on-Proto-Cape.patch \
 	file://logibone/0001-Instering-Logibone-driver-into-kernel.patch \
 	file://logibone/0002-Adding-DTS-support-for-Logibone.patch \
